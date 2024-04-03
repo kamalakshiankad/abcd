@@ -1,0 +1,21 @@
+# java programs
+#2a:different data types
+public class VariableTest
+{
+public static void main(String args[])
+{
+int myInt=-5;
+doube myFloat=2.7182;
+char myLetter='a';
+boolean myBool=true;
+String myTest="hello";
+System.out.println(myInt+" "+myFloat+" "+myLetter+" "+myBool+" "+myTest);
+}
+}
+
+#2b:instance variables
+class Emp
+{
+int id;
+
+
